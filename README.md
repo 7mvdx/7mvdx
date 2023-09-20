@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @7mvdx
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html,css and javascript
+- 🌱 I’m currently learning HTML, CSS, and javascript
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me (insta: 7mvd3)
